@@ -1,0 +1,11 @@
+"method","OK","FAIL","PARTIAL"
+"DD.alpha",49,0,0
+"LDA.DD",32,11,6
+"LDA.orig",49,0,0
+"LDA.poly",26,13,10
+"SSL.DD",49,0,0
+"SSL.orig",49,0,0
+"SSL.poly",49,0,0
+"SVM.DD",49,0,0
+"SVM.orig",49,0,0
+"SVM.poly",49,0,0

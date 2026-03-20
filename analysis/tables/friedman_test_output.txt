@@ -1,0 +1,6 @@
+
+	Friedman rank sum test
+
+data:  accuracy and method and dataset
+Friedman chi-squared = 149.32, df = 7, p-value < 2.2e-16
+

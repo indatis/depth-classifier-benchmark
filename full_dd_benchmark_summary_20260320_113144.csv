@@ -1,0 +1,11 @@
+"setting","method","mean_accuracy_successful","successful_datasets","ok_datasets","partial_datasets","failed_datasets"
+"semi_supervised","SSL.orig",0.820194566038797,49,49,0,0
+"semi_supervised","SSL.DD",0.7167927699197,49,49,0,0
+"semi_supervised","SSL.poly",0.712722602261705,49,49,0,0
+"supervised","DD.alpha",0.83725583503568,49,49,0,0
+"supervised","LDA.orig",0.833295265689575,49,49,0,0
+"supervised","SVM.orig",0.826014141278783,49,49,0,0
+"supervised","SVM.DD",0.515982964397642,49,49,0,0
+"supervised","SVM.poly",0.446005652570244,49,49,0,0
+"supervised","LDA.DD",0.695695550186227,38,32,6,11
+"supervised","LDA.poly",0.708318197401793,36,26,10,13
