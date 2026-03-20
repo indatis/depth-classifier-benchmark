@@ -1,5 +1,5 @@
 # ============================================================
-# 03_analysis_visuals_dd_benchmark.R
+# 02_visuals.R
 # Visual and summary analysis for the DD benchmark
 # Uses:
 #   - all results (including failures)
